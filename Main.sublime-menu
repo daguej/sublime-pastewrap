@@ -1,0 +1,13 @@
+[  
+{  
+    "id": "edit",  
+    "children":  
+    [  
+        { "id": "clipboard" },
+        { 
+        	"command": "paste_wrap"
+        }
+        
+    ]  
+}  
+]
